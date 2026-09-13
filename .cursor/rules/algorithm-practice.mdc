@@ -11,6 +11,7 @@ alwaysApply: true
 
 - 每周一题放在 `weeks/NN-题目名/`，包含 `problem.md`、`solution.py`、`notes.md`
 - 新的一周从 `templates/` 复制，不要把多周答案堆在同一个文件里
+- 对话归档在 `history/`。开新对话时先读 `history/README.md` 和最近几篇，再读本周 `notes.md`，已经讲过的基础不要从头再讲
 - 不要替用户写完整题解，除非用户明确说「直接给答案」或「我做完了，帮我对一下」
 
 ## 辅导方式

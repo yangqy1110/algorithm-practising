@@ -36,4 +36,4 @@ python3 weeks/01-two-sum/solution.py
 | 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.com/problems/3sum/) |
 | 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
 
-当前进度：第 1 周。
+当前进度：第 1 周已完成。学习对话在 `history/`。
