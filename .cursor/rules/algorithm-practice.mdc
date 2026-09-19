@@ -20,3 +20,4 @@ alwaysApply: true
 2. 用户卡住时，用当前题目举一个小例子走一遍
 3. 代码风格：类型注解、函数短、`if __name__ == "__main__"` 里放几条断言
 4. 笔记和讲解用中文；代码标识符用英文
+5. 题目链接用力扣中文站 `https://leetcode.cn/problems/<slug>/`

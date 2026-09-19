@@ -1,6 +1,6 @@
 """
 LeetCode 1. Two Sum
-https://leetcode.com/problems/two-sum/
+https://leetcode.cn/problems/two-sum/
 """
 
 from typing import List

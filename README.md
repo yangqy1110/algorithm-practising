@@ -10,7 +10,7 @@
 4. 在本目录跑一遍自测：
 
 ```bash
-python3 weeks/01-two-sum/solution.py
+python3 weeks/02-valid-parentheses/solution.py
 ```
 
 5. 做完一周就提交一次，推到 GitHub。
@@ -23,17 +23,17 @@ python3 weeks/01-two-sum/solution.py
 
 | 周 | 题目 | 题型 | 链接 |
 | --- | --- | --- | --- |
-| 01 | Two Sum | 哈希表 | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
-| 02 | Valid Parentheses | 栈 | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
-| 03 | Reverse Linked List | 链表 | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
-| 04 | Binary Search | 二分 | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
-| 05 | Best Time to Buy and Sell Stock | 贪心 | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 06 | Climbing Stairs | 动态规划入门 | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
-| 07 | Merge Two Sorted Lists | 链表 | [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/) |
-| 08 | Maximum Subarray | 动态规划 | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
-| 09 | Invert Binary Tree | 二叉树 | [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/) |
-| 10 | Number of Islands | 图 / DFS BFS | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
-| 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.com/problems/3sum/) |
-| 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| 01 | Two Sum | 哈希表 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 02 | Valid Parentheses | 栈 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 03 | Reverse Linked List | 链表 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 04 | Binary Search | 二分 | [LeetCode 704](https://leetcode.cn/problems/binary-search/) |
+| 05 | Best Time to Buy and Sell Stock | 贪心 | [LeetCode 121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+| 06 | Climbing Stairs | 动态规划入门 | [LeetCode 70](https://leetcode.cn/problems/climbing-stairs/) |
+| 07 | Merge Two Sorted Lists | 链表 | [LeetCode 21](https://leetcode.cn/problems/merge-two-sorted-lists/) |
+| 08 | Maximum Subarray | 动态规划 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 09 | Invert Binary Tree | 二叉树 | [LeetCode 226](https://leetcode.cn/problems/invert-binary-tree/) |
+| 10 | Number of Islands | 图 / DFS BFS | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
+| 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
 
-当前进度：第 1 周已完成。学习对话在 `history/`。
+当前进度：第 2 周已完成。学习对话在 `history/`。

@@ -1,7 +1,7 @@
 # 1. Two Sum
 
 - 来源：LeetCode
-- 链接：https://leetcode.com/problems/two-sum/
+- 链接：https://leetcode.cn/problems/two-sum/
 - 题型：哈希表
 
 ## 描述
