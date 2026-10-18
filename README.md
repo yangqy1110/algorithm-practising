@@ -36,4 +36,4 @@ python3 weeks/04-binary-search/solution.py
 | 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
 | 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
 
-当前进度：第 4 周已完成。学习对话在 `history/`。
+当前进度：第 4 周已完成，2026-10-18 复习过前四题。学习对话在 `history/`。
