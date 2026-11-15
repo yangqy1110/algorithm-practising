@@ -4,6 +4,8 @@
 
 ## 怎么练
 
+每周默认在力扣中文版网页里写 Python 并运行代码。`problem.md` 提供中文题意、示例和力扣中文版链接，`solution.py` 可用来保存解法和运行本地自测。
+
 1. 打开本周目录，先自己想 20–30 分钟，再写 `solution.py`。
 2. 卡住了可以问我：**先要提示，不要直接看完整答案**。
 3. 做完后把思路写进 `notes.md`（怎么想到的、复杂度、踩过的坑）。
@@ -36,4 +38,4 @@ python3 weeks/06-climbing-stairs/solution.py
 | 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
 | 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
 
-当前进度：第 6 周已完成，2026-10-18 复习过前四题。学习对话在 `history/`。
+当前进度：第 7 周已完成，2026-10-18 复习过前四题。学习对话在 `history/`。
