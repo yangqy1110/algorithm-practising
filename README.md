@@ -12,7 +12,7 @@
 4. 在本目录跑一遍自测：
 
 ```bash
-python3 weeks/06-climbing-stairs/solution.py
+python3 weeks/08-maximum-subarray/solution.py
 ```
 
 5. 做完一周就提交一次，推到 GitHub。
@@ -38,4 +38,4 @@ python3 weeks/06-climbing-stairs/solution.py
 | 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
 | 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
 
-当前进度：第 7 周已完成，2026-10-18 复习过前四题。学习对话在 `history/`。
+当前进度：第 8 周已完成，2026-10-18 复习过前四题。学习对话在 `history/`。
