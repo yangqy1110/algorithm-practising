@@ -12,7 +12,7 @@
 4. 在本目录跑一遍自测：
 
 ```bash
-python3 weeks/09-invert-binary-tree/solution.py
+python3 weeks/10-number-of-islands/solution.py
 ```
 
 5. 做完一周就提交一次，推到 GitHub。
@@ -38,4 +38,4 @@ python3 weeks/09-invert-binary-tree/solution.py
 | 11 | 3Sum | 双指针 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
 | 12 | Course Schedule | 拓扑排序 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
 
-当前进度：第 9 周已完成，第 10 周「岛屿数量」已开始，2026-10-18 复习过前四题。学习对话在 `history/`。
+当前进度：第 10 周已完成，第 11 周「三数之和」已开始，2026-10-18 复习过前四题。学习对话在 `history/`。
