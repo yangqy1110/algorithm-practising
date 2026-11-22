@@ -8,7 +8,29 @@ from typing import List
 
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        raise NotImplementedError
+        remaining = [0 for _ in range(numCourses)]
+        for course, prerequisite in prerequisites:
+            remaining[course] += 1
+
+        next_courses = [[] for _ in range(numCourses)]
+        for course, prerequisite in prerequisites:
+            next_courses[prerequisite].append(course)
+
+        ready = []
+        for i, remain_num in enumerate(remaining):
+            if remain_num == 0:
+                ready.append(i)
+
+        ok_nums = []
+        while ready:
+            now_course = ready.pop()
+            ok_nums.append(now_course)
+            for course in next_courses[now_course]:
+                remaining[course] -= 1
+                if remaining[course] == 0:
+                    ready.append(course)
+
+        return ok_nums if len(ok_nums) == numCourses else []
 
 
 if __name__ == "__main__":
